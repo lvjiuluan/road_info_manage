@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-amap": "^0.5.10"
+  }
+}
