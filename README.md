@@ -1,7 +1,7 @@
 # road_info_manage
 轻量级城镇道路养护信息管理系统设计与实现
 
-# [点击查看网站内容](www.xgsjg.top)
+# 演示地址 www.xgsjg.top
 
 账号：`admin`
 
